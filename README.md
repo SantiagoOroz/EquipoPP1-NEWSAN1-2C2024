@@ -21,7 +21,6 @@ Recolección de datos ergonómicos: Se recopilan los resultados del análisis er
 Identificación de tareas críticas: A partir de los datos obtenidos, se identifican aquellas tareas que, por su nivel de exigencia física o repetitividad, requieren un mayor enfoque en la rotación. Estas tareas se categorizan según el nivel de riesgo, lo que permite diseñar una rotación eficiente entre los empleados.
 Asignación de ciclos de rotación: Se establecen ciclos de rotación que aseguran que los empleados cambien de tareas en intervalos adecuados. La duración de estos intervalos depende del nivel de exigencia física de cada tarea, garantizando que los trabajadores no permanezcan en una actividad riesgosa por un tiempo prolongado.
 
-Conclusión
 En conclusión, el análisis ergonómico y la implementación de estrategias de mejora continua son esenciales para lograr un entorno laboral más seguro y eficiente. Durante esta práctica, nos enfocaremos en alcanzar los siguientes objetivos:
 Procesar y analizar todos los datos disponibles para identificar indicadores clave relevantes en la planificación de la rotación del personal, basándonos en el análisis individual de cada puesto.
 Identificar las posibles combinaciones de puestos de trabajo para minimizar el riesgo ergonómico.
