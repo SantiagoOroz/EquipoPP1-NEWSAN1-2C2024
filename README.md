@@ -150,5 +150,6 @@ Si desea ejecutar los scripts de procesamiento de datos o regenerar el entorno:
 Agradecemos especialmente a la empresa **Newsan** por brindarnos el espacio y los datos para realizar esta práctica, y a los profesores del Centro Politécnico Superior Malvinas Argentinas por su acompañamiento.
 
   * **Tutores Newsan:** Leila Omar.
-  * **Docentes:** Silvana Paez Jimenez, Horacio Bogarin, Federico Magaldi, Martin Mirabete.
+  * **Docentes:** Silvana Paez Jimenez, Horacio Bogarin, Federico Magaldi, Martin Mirabete, Cintia Aguado, Fernando Romano
+
 
