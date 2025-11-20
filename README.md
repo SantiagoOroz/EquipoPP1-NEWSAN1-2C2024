@@ -33,10 +33,10 @@ Este proyecto fue ejecutado utilizando metodologías ágiles (Scrum) por el sigu
 
 | Integrante | Roles Principales |
 | :--- | :--- |
-| **Santiago Oroz** | Especialista Técnico, Analista de Datos, Diseñador de Visualización |
+| [**Santiago Oroz**](https://www.linkedin.com/in/santiago-oroz/) | Especialista Técnico, Analista de Datos, Diseñador de Visualización |
 | **Mariana López** | Líder de Proyecto, Coordinadora, Analista, Diseñadora, Comunicadora |
-| **Sergio Sánchez** | Líder de Proyecto, Especialista Técnico, Analista, Comunicador |
-| **Rafael Mamani** | Líder de Proyecto, Coordinador de Recursos, Analista |
+| [**Sergio Sánchez**](https://www.linkedin.com/in/sergio-andres-sanchez-tdf/) | Líder de Proyecto, Especialista Técnico, Analista, Comunicador |
+| [**Rafael Mamani**](https://www.linkedin.com/in/rafael-mamani-869b5115b/) | Líder de Proyecto, Coordinador de Recursos, Analista |
 
 -----
 
@@ -151,3 +151,4 @@ Agradecemos especialmente a la empresa **Newsan** por brindarnos el espacio y lo
 
   * **Tutores Newsan:** Leila Omar.
   * **Docentes:** Silvana Paez Jimenez, Horacio Bogarin, Federico Magaldi, Martin Mirabete.
+
